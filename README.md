@@ -32,3 +32,11 @@ Na etapa atual do projeto, houveram pequenas diferenças em relação à propost
 ## Link do video explicativo do código: 
 
 https://youtu.be/URjbAcQ2wkw
+
+## Alunos e RMs
+
+Bianca Barreto RM: 551848
+Gabriel Cirillo RM: 98214
+Julia Akemi RM: 98032
+Mateus Fattori RM: 97904
+Pedro Baraldi RM: 98060
