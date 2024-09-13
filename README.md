@@ -20,7 +20,6 @@ Na etapa atual do projeto, houveram pequenas diferenças em relação à propost
 ## Funcionamento dos Recursos/Ferramentas na Aplicação
 
 - **Pandas e NumPy:** Utilizado para manipulação e análise dos dados.
-- **Scikit-learn:** Construção de modelos de machine learning para prever o comportamento de compra dos clientes.
 - **Matplotlib:** Visualização de dados, como gráficos e plots para apresentar insights obtidos a partir da análise de dados.
 
 ## Uso de Machine Learning / IA no Desenvolvimento do Projeto
