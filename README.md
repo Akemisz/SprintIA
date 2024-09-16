@@ -35,7 +35,6 @@ https://youtu.be/0xrX4smZc0I
 ## Alunos e RMs
 
 - Bianca Barreto RM: 551848
-- Gabriel Cirillo RM: 98214
 - Julia Akemi RM: 98032
 - Mateus Fattori RM: 97904
 - Pedro Baraldi RM: 98060
