@@ -30,7 +30,7 @@ Na etapa atual do projeto, houveram pequenas diferenças em relação à propost
 
 ## Link do video explicativo do código: 
 
-https://youtu.be/0xrX4smZc0I
+https://www.youtube.com/watch?v=WwfxubxEcFU
 
 ## Alunos e RMs
 
