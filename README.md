@@ -38,3 +38,4 @@ https://youtu.be/0xrX4smZc0I
 - Julia Akemi RM: 98032
 - Mateus Fattori RM: 97904
 - Pedro Baraldi RM: 98060
+- Lucas Monte RM: 551604
