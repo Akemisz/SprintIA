@@ -28,7 +28,7 @@ Na etapa atual do projeto, houveram pequenas diferenças em relação à propost
 - **Personalização de Ofertas:** Modelos de machine learning são empregados para prever o comportamento de compra dos clientes e fornecer ofertas personalizadas de acordo com seu gênero ou idade.
 - **Otimização do Sistema de Fidelidade:** Algoritmos de IA são utilizados para otimizar o sistema de fidelidade, ajustando os pontos de recompensa e os incentivos oferecidos aos clientes.
 
-## Link do video explicativo do código: 
+## Link do video: 
 
 https://www.youtube.com/watch?v=WwfxubxEcFU
 
